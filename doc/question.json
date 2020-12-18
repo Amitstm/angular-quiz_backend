@@ -1,0 +1,99 @@
+[
+  {
+    
+      "QuestionID": 1,
+      "Question": " Find the synonym, Derogue",
+      "option1": "Quit",
+      "option2":"Remove",
+      "option3":"Abolish",
+      "option4":"Replace",
+      "Answer": 1
+  },
+  {
+    
+    "QuestionID": 2,
+    "Question": " Find the synonym, Derogue",
+    "option1": "Quit",
+    "option2":"Remove",
+    "option3":"Abolish",
+    "option4":"Replace",
+    "Answer": 2
+  },
+  {
+    
+    "QuestionID": 3,
+    "Question": " Find the synonym, Derogue",
+    "option1": "Quit",
+    "option2":"Remove",
+    "option3":"Abolish",
+    "option4":"Replace",
+    "Answer": 1
+},
+{
+  
+  "QuestionID": 4,
+  "Question": " Find the synonym, Derogue",
+  "option1": "Quit",
+  "option2":"Remove",
+  "option3":"Abolish",
+  "option4":"Replace",
+  "Answer": 2
+},{
+    
+  "QuestionID": 5,
+  "Question": " Find the synonym, Derogue",
+  "option1": "Quit",
+  "option2":"Remove",
+  "option3":"Abolish",
+  "option4":"Replace",
+  "Answer": 1
+},
+{
+
+"QuestionID": 6,
+"Question": " Find the synonym, Derogue",
+"option1": "Quit",
+"option2":"Remove",
+"option3":"Abolish",
+"option4":"Replace",
+"Answer": 2
+},{
+    
+  "QuestionID": 7,
+  "Question": " Find the synonym, Derogue",
+  "option1": "Quit",
+  "option2":"Remove",
+  "option3":"Abolish",
+  "option4":"Replace",
+  "Answer": 1
+},
+{
+
+"QuestionID": 8,
+"Question": " Find the synonym, Derogue",
+"option1": "Quit",
+"option2":"Remove",
+"option3":"Abolish",
+"option4":"Replace",
+"Answer": 2
+},{
+    
+  "QuestionID": 9,
+  "Question": " Find the synonym, Derogue",
+  "option1": "Quit",
+  "option2":"Remove",
+  "option3":"Abolish",
+  "option4":"Replace",
+  "Answer": 1
+},
+{
+
+"QuestionID": 10,
+"Question": " Find the synonym, Derogue",
+"option1": "Quit",
+"option2":"Remove",
+"option3":"Abolish",
+"option4":"Replace",
+"Answer": 2
+}
+]
